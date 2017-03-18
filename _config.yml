@@ -1,0 +1,38 @@
+# Site settings
+title: "catdevrandom.me"
+email: brianmmcclain@gmail.com
+description: ""
+baseurl:
+url: "http://catdevrandom.me/"
+title_description: ""
+title_image: "https://pbs.twimg.com/profile_images/2896788306/b6029836e72307f37b7eb5ec9af744b3.jpeg"
+google_analytics: "UA-36855216-1"
+disqus_account: catdevrandom
+github_repository: 
+addthis_id: 
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: brianmmcclain
+github_username:  brianmmcclain
+instagram_username: 
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/brian-mcclain-8b74862b/
+google_plus_link: 
+stackoverflow_link: 
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: 
+footer_right:
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /blog/:year/:month/:day/:title/
+exclude: [vendor]

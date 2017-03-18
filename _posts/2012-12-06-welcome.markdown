@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Welcome. Please Take Your Shoes Off, The Carpet's New"
+date: 2012-12-06 22:40
+comments: true
+categories: 
+- Misc.
+---
+
+
+**Hello**
+
+... and welcome. Yes yes, I know. Yet another blog from <a href="http://brianmmcclain.com" target="_blank">Brian McClain</a>, how many does this guy need, right? Well I actually have a plan. My other blog (old blog? I havn't decided yet) was named based on my awful Twitter handle. It was hard to remember for some, and only got referral traffic. CatDevRandom though? That's easy. I type that command at least once a week.
+
+So what can you expect from this blog?
+
+1. Tech
+2. Code
+3. General hackings
+
+Even the choice of blogging engine was done to promote this. I chose <a href="http://octopress.org/" target="_blank">Octopress</a>, an open source blogging framework that promotes hacking, customizing, and general tinkering. 
+
+A lot of what drove this choice was really the hosting situation. It was a lot of manual work, it constantly went down, and when I did manage some traffic, it didn't handle it well. In my current position, I hack and develop on PaaS technology, so I decided to host this on <a href="http://appfog.com/" target="_blank">AppFog</a>, a <a href="http://cloudfoundry.com/" target="_blank">Cloud Foundry</a> provider. As a big Cloud Foundry fan, this was icing on the cake
+
+So I might move 100% of my blog here, or I might leave this be and keep my writings on my old blog, <a href="http://brianmmcclain.com" target="_blank">http://brianmmcclain.com</a>, or I might keep them split. Who knows!
+
+So what do you think? A fan of the new idea? Like the new blog? Or miss the old? The new comment system needs some traffic as well :)

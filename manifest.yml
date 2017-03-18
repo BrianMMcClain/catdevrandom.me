@@ -1,0 +1,9 @@
+---
+applications:
+- name: catdevrandom
+  memory: 256M
+  instances: 1
+  host: catdevrandom
+  domain: cfapps.io
+  path: _site/
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
