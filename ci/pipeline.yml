@@ -1,0 +1,14 @@
+resources:
+  - name: catdevrandom
+    type: git
+    source:
+      uri: https://github.com/BrianMMcClain/catdevrandom.me.git
+      branch: master
+
+jobs:
+  - name: catdevrandom
+    plan:
+    - get: catdevrandom
+      trugger: true
+    - task: tests
+      file: catdevrandom/build.yml
