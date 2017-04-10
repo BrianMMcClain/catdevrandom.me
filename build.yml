@@ -1,0 +1,13 @@
+platform: linux
+
+image_resource:
+  type: docker-image
+  source:
+    repository: ruby
+    tag: 2.3.3
+
+inputs:
+  - name: catdevrandom
+
+run:
+  path: ./catdevrandom/ci/test.sh

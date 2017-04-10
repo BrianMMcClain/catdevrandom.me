@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-set -o -e -x errexit
-
-rake test
+set -e -x
+pushd catdevrandom
+  bundle install
+  bundle exec rake test
+popd
